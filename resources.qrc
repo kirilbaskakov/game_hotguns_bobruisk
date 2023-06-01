@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/levels"/>
+    <qresource prefix="/levels" lang="c++"/>
+    <qresource prefix="/">
+        <file>textures/floor/floor_wood_brown.png</file>
+        <file>textures/floor/floor_wood_light.png</file>
+        <file>textures/font/a.png</file>
+        <file>textures/font/b.png</file>
+        <file>textures/font/c.png</file>
+        <file>textures/font/d.png</file>
+        <file>textures/font/e.png</file>
+        <file>textures/font/f.png</file>
+        <file>textures/font/g.png</file>
+        <file>textures/font/h.png</file>
+        <file>textures/font/j.png</file>
+        <file>textures/font/k.png</file>
+        <file>textures/font/l.png</file>
+        <file>textures/font/m.png</file>
+        <file>textures/font/n.png</file>
+        <file>textures/font/o.png</file>
+        <file>textures/font/p.png</file>
+        <file>textures/font/q.png</file>
+        <file>textures/font/r.png</file>
+        <file>textures/font/s.png</file>
+        <file>textures/font/t.png</file>
+        <file>textures/font/u.png</file>
+        <file>textures/font/v.png</file>
+        <file>textures/font/w.png</file>
+        <file>textures/font/x.png</file>
+        <file>textures/font/y.png</file>
+        <file>textures/font/z.png</file>
+        <file>textures/hero/hero.png</file>
+        <file>textures/hero/hero_dead_back1.png</file>
+        <file>textures/hero/hero_dead_back2.png</file>
+        <file>textures/hero/hero_dead_front1.png</file>
+        <file>textures/hero/hero_dead_front2.png</file>
+        <file>textures/hero/hero_dead_front3.png</file>
+        <file>textures/hero/hero_shooting.png</file>
+        <file>textures/walls/wall_brick.png</file>
+        <file>textures/bullet.png</file>
+        <file>textures/menu_background.jpg</file>
+        <file>textures/font/i.png</file>
+        <file>textures/background.png</file>
+        <file>textures/floor/floor_wood_white.png</file>
+        <file>textures/floor/floor_tile_white.png</file>
+        <file>audio/sounds/gunshot.mp3</file>
+        <file>textures/floor/floor_tile_gold.png</file>
+        <file>textures/walls/wall_black.png</file>
+        <file>textures/walls/wall_yellow.png</file>
+        <file>textures/floor/floor_wood_brown2.png</file>
+        <file>textures/decorations/bed_table.png</file>
+        <file>textures/decorations/cooker.png</file>
+        <file>textures/decorations/sink.png</file>
+        <file>textures/decorations/table.png</file>
+        <file>textures/decorations/toilet.png</file>
+        <file>textures/decorations/trash.png</file>
+    </qresource>
+</RCC>
